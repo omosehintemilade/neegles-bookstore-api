@@ -1,10 +1,11 @@
 const fs = require("fs").promises;
 const path = require("path");
 const { v4 } = require("uuid");
+const { getFilePath } = require("../utils");
 
 class JsonStore {
   constructor(filename) {
-    this.filename = path.join(__dirname, "data", filename);
+    this.filename = getFilePath(path.join(__dirname, "data"), filename);
     this.data = null;
   }
 
