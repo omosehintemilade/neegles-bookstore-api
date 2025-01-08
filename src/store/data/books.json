@@ -1,0 +1,23 @@
+[
+  {
+    "id": "5c083900-3bfb-4892-9865-a793fd6a6989",
+    "title": "Book 3",
+    "author": "Author 1",
+    "year": 1900,
+    "userId": "184e8433-5ec9-46fd-a24a-dcc100590be8"
+  },
+  {
+    "id": "0f2d32df-ab3c-47ae-8b6b-afe8911a443b",
+    "title": "initiatives Book",
+    "author": "Author 1",
+    "year": 2020,
+    "userId": "184e8433-5ec9-46fd-a24a-dcc100590be8"
+  },
+  {
+    "id": "83f0845b-6b74-4509-bde1-9f04fa4b915c",
+    "title": "synergies Book",
+    "author": "Holly Gutkowski",
+    "year": 2020,
+    "userId": "184e8433-5ec9-46fd-a24a-dcc100590be8"
+  }
+]
