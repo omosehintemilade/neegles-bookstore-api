@@ -19,7 +19,7 @@ This project implements a RESTful API using Node.js and Express, featuring JWT-b
 Clone the repository:
 
 ```
-git clone <???>
+git clone https://github.com/omosehintemilade/neegles-bookstore-api.git
 ```
 
 Install dependencies:
